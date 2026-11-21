@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rafaelquintaneiro-alt.github.io/Comercial/sitemap.xml
